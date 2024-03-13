@@ -1,0 +1,76 @@
+.button1 {
+  color: #2a609d;
+  background-color: white;
+  outline: 1px;
+  padding: 10px 20px;
+  border: 0.2px solid #2a609d;
+  font-size: 1 rem;
+  font-weight: 500;
+  width: 200px;
+}
+
+.button1:hover {
+  color: white;
+  background-color: #2a609d;
+}
+
+@media (max-width: 1024px) {
+  .electric {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+}
+.section3{
+  margin: 30px;
+}
+
+.test {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  background: transparent;
+  width: 25%;
+  font-size: 2rem
+}
+
+.button2 {
+  position: absolute;
+ top: 55%;
+  left: 10%;
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  border: 0.2px solid #ffffff;
+  font-size: 1 rem;
+  font-weight: 500;
+  width: 200px;
+  transition: 0.5s;
+}
+.button2:hover{
+  background-color: rgba(198, 198, 198, 0.718)
+}
+
+@media (max-width: 820px) {
+  .test{
+    top:10%;
+    width: 100%;
+    width: 50%;
+    font-size: 1rem;
+  }
+  .button2 {
+    top: 80%;
+    width: 150px;
+    font-size: 0.5rem;
+  }
+ 
+}
+@media (max-width:800px){
+  .section3{
+    margin: 0px;
+  }
+  
+}

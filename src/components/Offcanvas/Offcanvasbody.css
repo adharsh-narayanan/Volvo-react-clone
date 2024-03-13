@@ -1,0 +1,27 @@
+.link{
+    border-top: 1px #dcd9d9  solid ;    
+    text-align: center;    
+    cursor: pointer;
+    border-bottom: 1px #dcd9d9  solid ; 
+  }
+  .lists{
+    cursor: pointer;
+    font-size: 1.25rem;
+    font-weight: 500;
+  }
+  .lists:hover{
+    background-color:#dcd9d9 ;
+  }
+  .lists2{
+    background-color: transparent;
+  }
+  .accordion{
+    display: none;
+  }  
+
+  @media (max-width:  480px) {
+    .accordion{
+      display: block;
+    }    
+  }
+  

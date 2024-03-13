@@ -1,0 +1,18 @@
+.suvv:hover{
+    text-decoration: underline;
+    color:#2a609d ;
+
+}
+.navCars{
+    cursor: pointer;
+    padding: 0;
+}
+.online{
+    font-size: 12px;
+    font-weight: 500;
+    background-color: #fafafa;
+    letter-spacing: 0.02em;
+}
+.navCars:hover{
+    background-color:#efeff1 ;
+}

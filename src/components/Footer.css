@@ -1,0 +1,30 @@
+.links{
+    border-top: 1px #dcd9d9  solid ;    
+    text-align: center;    
+    cursor: pointer;
+}
+.links2{
+    border-bottom: 1px #dcd9d9 solid ;
+}
+.quickText{
+    color:  #2a609d;
+}
+.quickText:hover{
+    color: black;
+}
+.disclaimer{
+    font-size: 0.75rem;
+    text-align: center;
+}
+.footerText:hover{
+    color:  #2a609d;
+}
+.footerText{
+    color: rgb(23, 22, 22);
+    cursor: pointer;
+}
+.copy{
+    color: #918f8f;
+    font-size: 0.75rem;
+
+}
