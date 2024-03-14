@@ -18,8 +18,8 @@ function About() {
             https://www.volvocars.com/images/cs/v3/assets/blt618dcb179a89242d/blt8b193448d24bd8ae/65798f0524605c000ddedf57/homepage-whyvolvo-desktop-16x9.jpg?branch=prod_alias&auto=webp&iar=0&w=1920&imdensity=1 1920w,' width={'100%'} height={'100%'} alt="" />
 
         </div>
-
-        <div className='row mt-5'style={{backgroundColor:'#fafafa'}}>
+        </div>
+        <div className='row aboutext mx-5 mt-5'style={{backgroundColor:'#fafafa'}}>
           <div className="col-md-4 col-xl-4 col-sm-12" style={{backgroundColor:'#fafafa'}}>
             <h5 style={{ fontSize: "font-size: 1.25rem",backgroundColor:'#fafafa' }}>Making your life easier </h5>
             <p style={{backgroundColor:'#fafafa',color: 'rgb(57, 57, 57)',fontSize: '1rem', fontWeight: '300',}} >Our new take on getting from A to B. Get access to a Volvo when you want it, how you want it.</p>
@@ -41,7 +41,7 @@ function About() {
 
 
         </div>
-      </div>
+      
     </div>
   )
 }

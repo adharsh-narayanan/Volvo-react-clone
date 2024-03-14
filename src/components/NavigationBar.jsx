@@ -97,7 +97,7 @@ function NavigationBar() {
       </Navbar>
       <div className='w-100 text-center p-1' style={{ backgroundColor: 'black' }}>
         <div className=" d-flex align-items-center  justify-content-center" style={{ backgroundColor: 'transparent' }}>
-          <h6 className='mt-2' style={{ backgroundColor: 'transparent', color: 'white', fontWeight: '500', fontSize: '1rem',cursor:"pointer" }}>LEARN MORE</h6>
+          <h6 className='mt-2 learn' style={{ backgroundColor: 'transparent', color: 'white', fontWeight: '500', fontSize: '1rem',cursor:"pointer" }}>LEARN MORE</h6>
           <KeyboardArrowRightIcon className='' fontSize='small' style={{ backgroundColor: 'transparent', fill: 'white' }} />
         </div>
 

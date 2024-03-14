@@ -8,6 +8,9 @@
   font-weight: 500;
   width: 200px;
 }
+.electricPage{
+  padding: 50px;
+}
 
 .button1:hover {
   color: white;
@@ -73,4 +76,15 @@
     margin: 0px;
   }
   
+}
+
+@media (max-width:  480px) {
+  .electric {
+    text-align: inherit;
+   padding: 0;
+   margin: 0;
+  }
+  .electricPage{
+    padding: 0px;
+  }
 }

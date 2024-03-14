@@ -4,8 +4,8 @@ function Electric() {
   return (
     <>
       <div className=' mx-5' style={{ backgroundColor: '#fafafa', marginTop: '100px' }}>
-        <div className='m-5 row' style={{ backgroundColor: '#fafafa' }}>
-          <div className="col-md-12 mt-5 col-lg-6 col-xl-6 d-flex justify-content-center align-items-center flex-column order-md-2 order-lg-1 " style={{ backgroundColor: '#fafafa' }}>
+        <div className='electricPage  row' style={{ backgroundColor: '#fafafa' }}>
+          <div className="col-md-12 mt-5 col-lg-6 col-xl-6 d-flex justify-content-center align-items-center flex-column order-md-2 order-sm-2  order-lg-1 " style={{ backgroundColor: '#fafafa' }}>
             <div className="w-75  electric" style={{ backgroundColor: '#fafafa' }} >
               <h3 style={{ fontSize: "font-size: 2rem", backgroundColor: '#fafafa', fontWeight: '500' }}>Electric charging</h3>
               <p style={{ backgroundColor: '#fafafa', color: 'rgb(57, 57, 57)', fontSize: '1.25rem', fontWeight: '300', }} >Charging your electric car at home and on the road can be easy, fast and cost-effective.</p>
@@ -14,7 +14,7 @@ function Electric() {
           </div>
 
 
-          <div className="col-md-12  col-lg-6 col-xl-6 order-sm-1 order-lg-2 " style={{ backgroundColor: '#fafafa' }} >
+          <div className="col-md-12  col-lg-6 col-xl-6 order-sm-1 order-lg-2 order-sm-1" style={{ backgroundColor: '#fafafa' }} >
             <picture>
               <source srcset="
                 https://www.volvocars.com/images/cs/v3/assets/blt618dcb179a89242d/blta1b7e2a9b2b4ec75/6578674705aefe000e4a9548/xc40_4-3.png?branch=prod_alias&amp;auto=webp&amp;iar=0&amp;w=480&amp;imdensity=1 480w,
