@@ -1,3 +1,6 @@
+.offcanvasbody{
+  width: 400px;
+}
 .link{
     border-top: 1px #dcd9d9  solid ;    
     text-align: center;    
@@ -23,5 +26,8 @@
     .accordion{
       display: block;
     }    
+    .offcanvasbody{
+        width: auto;
+    }
   }
   

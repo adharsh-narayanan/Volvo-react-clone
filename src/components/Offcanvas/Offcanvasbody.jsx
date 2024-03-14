@@ -17,7 +17,7 @@ function Offcanvasbody( {setShow,show}) {
         navbtn1.style.borderBottom = 'none'   
        }
   return (
-    <Offcanvas show={show} onHide={handleClose} placement="end" style={{ width: '400px' }}>
+    <Offcanvas show={show} onHide={handleClose} className='offcanvasbody' placement="end" style={{  }}>
     <Offcanvas.Header className='border border-end' closeButton>
       <Offcanvas.Title >
         <img
