@@ -19,7 +19,7 @@ function Suv() {
             model: 'XC40 Recharge ',
             subtype: 'fully electric',
             rate: '₹ 56,90,000 MSRP',
-            image: 'https://www.volvocars.com/images/cs/v3/assets/bltab26d231d43e6180/blt3526b89ba16e8758/6583d75780aae9000d60b45b/xc60-mhev-my24-responsive.jpg?branch=prod_alias&auto=webp&h=500&iar=0',
+            image: 'https://www.volvocars.com/images/cs/v3/assets/bltab26d231d43e6180/blt0cdbd04705eae8db/6583d7457a0c66000d86cc8f/xc40-bev-my24.jpg?branch=prod_alias&auto=webp&h=500&iar=0',
             subtext: 'Order Online'
         },
         {
