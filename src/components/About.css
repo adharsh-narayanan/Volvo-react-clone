@@ -16,13 +16,13 @@
   color: white;
   background-color: #2a609d;
 }
-.text-center{
+.aboutext{
   text-align: center;
   padding: 100px;
 }
 
 @media (max-width:  480px) {
-  .text-center{
+  .aboutext{
     text-align:inherit;
     padding: 0;
   }
